@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.81712500,44.38963056 ]
+      },
+      "properties": {
+        "id":"1",
+        "Station Name":"WEST BRANCH AUSABLE RIVER AT WILMINGTON NY",
+        "Site ID":"04274200",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.86644440,44.34927778 ]
+      },
+      "properties": {
+        "id":"2",
+        "Station Name":"W BR AUSABLE R TRIB 2 BL ST HW 86 NR WILMINGTON NY",
+        "Site ID":"04274051",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.86766110,44.34620556 ]
+      },
+      "properties": {
+        "id":"3",
+        "Station Name":"W BR AUSABLE R TRIB 2 AB ST HW 86 NR WILMINGTON NY",
+        "Site ID":"04274050",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.92030560,44.30310000 ]
+      },
+      "properties": {
+        "id":"4",
+        "Station Name":"W BR AUSABLE R TRIB 1 ABV ST HW 86 NR LK PLACID NY",
+        "Site ID":"04273996",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.92070278,44.30378610 ]
+      },
+      "properties": {
+        "id":"5",
+        "Station Name":"W BR AUSABLE R TRIB 1 BLW ST HW 86 NR LK PLACID NY",
+        "Site ID":"04273997",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.91239720,44.23719444 ]
+      },
+      "properties": {
+        "id":"6",
+        "Station Name":"N MEADOW BR TRIB ABOVE NY RTE 73 NR NORTH ELBA NY",
+        "Site ID":"0427386405",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.91384440,44.23673610 ]
+      },
+      "properties": {
+        "id":"7",
+        "Station Name":"N MEADOW BR TRIB BELOW NY RTE 73 NR NORTH ELBA NY",
+        "Site ID":"0427386410",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.01338889,44.26222220 ]
+      },
+      "properties": {
+        "id":"8",
+        "Station Name":"CHUBB RIVER NEAR LAKE PLACID NY",
+        "Site ID":"04273885",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.91638889,44.31111110 ]
+      },
+      "properties": {
+        "id":"9",
+        "Station Name":"W BR AUSABLE R NR LAKE PLACID NY",
+        "Site ID":"04274000",
+        "photoURL":"",
+        "webcams" : [
+        ]
+
+      }
+    }
+]
+}
